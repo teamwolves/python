@@ -1,3 +1,5 @@
+#This python program show how to multiply numbers
+
 a = 2
 b = 4
 c = 5
