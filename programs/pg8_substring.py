@@ -1,4 +1,5 @@
-#This python program show how to divide numbers
+#This python program makes a Substring. 
+# Get the characters from position 3 to position 7
 
 b = "Skyzone is awesome"
 
